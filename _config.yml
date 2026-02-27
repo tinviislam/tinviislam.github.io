@@ -26,9 +26,11 @@ author:
   avatar           : "profile.png"
   name             : # "Tinvi Islam Tisha"
   pronouns         : "she/her"  
-  bio              : "<strong>Transport Enthusiast</strong><br><strong>Epicure</strong><br><strong>Wanderer</strong>"
+  bio              : "<strong>Transport Enthusiast</strong>"
+                     "<strong>Epicure</strong>"
+                     "<strong>Wanderer</strong>"
   location         : "Dhaka, Bangladesh"
-  employer         : "<a href="https://www.buet.ac.bd">BUET</a>"
+  employer         : "BUET"
   uri              : # URL
   email            : "tinviislamtisha@gmail.com" 
 
