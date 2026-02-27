@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tinvi Islam Tisha"
+  pronouns         : "she/her"  
+  bio              : "Transport enthusiast / Epicure / Wanderer"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Bangladesh University of Engineering & Technology (BUET)"
   uri              : # URL
   email            : "none@example.org" 
 
