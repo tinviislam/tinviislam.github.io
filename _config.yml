@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Tinvi Islam Tisha"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : # "Tinvi Islam Tisha"
   pronouns         : "she/her"  
-  bio              : "<strong>Transport Enthusiast / Epicure / Wanderer</strong>"
+  bio              : "<strong>Transport Enthusiast</strong><br><strong>Epicure</strong><br><strong>Wanderer</strong>"
   location         : "Dhaka, Bangladesh"
-  employer         : '<a href="https://www.buet.ac.bd">BUET</a>'
+  employer         : "<a href="https://www.buet.ac.bd">BUET</a>"
   uri              : # URL
   email            : "tinviislamtisha@gmail.com" 
 
