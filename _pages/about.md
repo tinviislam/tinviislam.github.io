@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Civil Engineer specializing in Transportation Planning and Traffic Safety Modeling. Experienced in discrete choice models, econometric models, and traffic simulation, with proficiency in R and VISSIM. Currently researching trends and dynamics in the motor vehicle population and mode choice behavior for MRT access and egress. Actively seeking PhD opportunities to advance innovative, data-driven transportation research focused on emerging and sustainable solutions.
 
 A data-driven personal website
 ======
@@ -19,16 +17,18 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Professional Experience
 ======
-# For those users that need more advanced functionality, the template also supports the following popular tools:
-- Lecturer, Department of Civil Engineering, [Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)
-- Lecturer, Department of Civil Engineering, [Sonargaon University (SU)](https://su.edu.bd/)
+- Lecturer, Department of Civil Engineering (July 2024 ~ Ongoing)
+  [Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)
+- Lecturer, Department of Civil Engineering, (May 2021 ~ June 2024)
+  [Sonargaon University (SU)](https://su.edu.bd/)
 
 
 Academic Credential
 ======
-- MSc in Civil Engineering (Transportation), [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)
-- - 2025
-- BSc in Civil Engineering (Transportation), [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)
+- MSc in Civil Engineering (Transportation), 2025
+  [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)
+- BSc in Civil Engineering (Transportation), 2021
+  [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/)
 
 Getting started
 ======
